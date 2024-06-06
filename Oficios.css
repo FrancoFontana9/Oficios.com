@@ -1,0 +1,20 @@
+body{
+    background-image: url("imagenes/Home-OficiosPic.jpg");
+    background-size: cover;    
+}
+
+h1{
+    font-family: fantasy;
+    font-size: 50px;
+    text-align: left;
+    margin-left: 90px;
+    margin-top: 70px;
+}
+
+p{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24px;
+    margin-top: 600xp;
+    padding: 15px;
+}
