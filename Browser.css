@@ -9,3 +9,21 @@ input{
     margin-top: 10px;
     margin-left: 10px;
 }
+
+h1{
+    font-size: 20px;
+    font-family: fantasy;
+    text-align: left;
+    margin-left: 10px;
+}
+
+table, tr, td{
+    border:1px black solid
+}
+
+table{
+    width: 93%;
+    text-align: left;
+    margin-left: 1%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
